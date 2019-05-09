@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is 4_vani.txt
 this is edited file of 4_txt from vani
+This file in intended for practice.
+>>>>>>> c0ac7a5588695f76dfaed48fc5ee9db6cff50c70
